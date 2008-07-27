@@ -1,0 +1,6 @@
+inherit qt4-qmake
+
+DESCRIPTION="Qt4 system tray GMail notifier"
+HOMEPAGE="http://codef00.com/projects.php"
+SRC_URI="http://codef00.com/projects/${P}.tgz"
+SRC_DIR="home/eteran/projects/${PN}"
